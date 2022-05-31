@@ -1,6 +1,6 @@
-## My maps
+## Figures
 
-Figures:
+Grosswendt 2020:
 
- - [PCA plot no DNMTs](https://skwon12.github.io/sk-graphs/PCAplot-noDNMTs.html)
+ - [PCA plot: no DNMTs](https://skwon12.github.io/sk-graphs/PCAplot-noDNMTs.html)
  - Replace this with your link
